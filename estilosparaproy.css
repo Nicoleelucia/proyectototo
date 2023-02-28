@@ -1,0 +1,42 @@
+*{ 
+    color: black
+    
+}
+
+
+p{ 
+        color:black;
+       
+        margin-top: 100px;
+        margin-bottom: 100px;
+        margin-right: 100px;
+        margin-left: 100px;
+        font-family: 'Roboto', sans-serif;
+        font-size: small;
+        
+        
+}
+
+
+
+
+h1 {
+background-color: grey;
+color: black;
+font-family: 'Roboto', sans-serif;
+font-size: small;
+}
+h2 {
+    background-color: grey;
+    color: black;
+    font-family: 'Roboto', sans-serif;
+    font-size: small;
+    }
+
+h3 {
+    background-color: grey;
+    color: black;
+    font-family: 'Roboto', sans-serif;
+    font-size: small;
+    }
+
